@@ -1,0 +1,10 @@
+use ufsystem 
+
+select iVer from UA_Version
+
+T3 8009
+T6 8520 
+
+U8 10.1 10100
+U8 10.0 10000
+
